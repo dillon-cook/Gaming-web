@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 15px;
+    padding: 15px;
+    background-color: #7198e0;
+    color: #333;
+    font-size: 25px;
+    line-height: 1.6em;
+    text-align: center;
+    image-rendering: optimizeQuality;
+    shape-image-threshold: inherit;
+    border-image-width: 50px;
+    
+    
+  }
+Glist{
+    text-decoration: underline;
+}
