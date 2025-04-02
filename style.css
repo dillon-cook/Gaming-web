@@ -4,23 +4,37 @@ body {
     padding: 15px;
     background-color: #03051b;
     color: #f0e7e7;
-    font-size: 25px;
+    font-size: 16px;
     line-height: 1.6em;
     text-align: center;
     image-rendering: optimizeQuality;
     shape-image-threshold: inherit;
     border-image-width: 50px;
+    background-image: url(https://www.shutterstock.com/shutterstock/videos/1099482099/thumb/1.jpg?ip=x480);
+    
     
     
   }
 h1{
-    font-size: 15px;
+    font-size: 20px;color: #f0e7e7;
 }
 h3{
     font-size: 40px;
+    text-underline-position: below;
+    padding: 15px;
+    color: white;
 }
 li{
     font-size: 40px;
     text-underline-position: under;
     text-align: left;
+    color: #ece2e2;
 }
+.pic{
+    shape-image-threshold: inherit;
+    border-radius: 25px;
+    border-radius: 25px;
+    border-image-slice: 40px;
+    
+}
+h2{color: white;}
